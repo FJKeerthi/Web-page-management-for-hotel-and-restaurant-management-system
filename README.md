@@ -12,4 +12,4 @@ Customer Functionalities include :
 
 ● Check the menu and special offers in the restaurant. 
 
-● View Profile and Activity History ● Use Chatbot to get information
+● View Profile and Activity History
